@@ -1,4 +1,9 @@
+---
+create: 2023-03-03T14:37+08:00
+update: 2023-03-03T14:37+08:00
+---
 # ob-forex
-Forex trading lession &amp; practice notes.
 
-Only personal use.
+Obsidian vault fro forex trading lession &amp; practice notes.
+
+Personal use only.
