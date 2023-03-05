@@ -4,6 +4,6 @@ update: 2023-03-03T14:37+08:00
 ---
 # ob-forex
 
-Obsidian vault fro forex trading lession &amp; practice notes. Personal use only.
+Obsidian vault fro forex trading lession &amp; practice notes.
 
-本库保存外汇交易学习笔记及练习结果与分析。
+Personal use only.
