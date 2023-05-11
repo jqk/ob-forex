@@ -29,9 +29,11 @@ C|图 <% tp.date.now("YYYY-MM-DD") %> 黄金1H|668
 
 ### 1.2 今日策略
 
-C|图 <% tp.date.now("YYYY-MM-DD") %> 黄金1H 计划|668
+C|图 <% tp.date.now("YYYY-MM-DD") %> 黄金15M 计划|668
 
 ### 1.3 第二日复盘
+
+C|图 <% tp.date.now("YYYY-MM-DD") %> 黄金15M 复盘|668
 
 ## 二、 欧元
 
@@ -53,9 +55,11 @@ C|图 <% tp.date.now("YYYY-MM-DD") %> 欧元1H|668
 
 ### 2.2 今日策略
 
-C|图 <% tp.date.now("YYYY-MM-DD") %> 欧元1H 计划|668
+C|图 <% tp.date.now("YYYY-MM-DD") %> 欧元15M 计划|668
 
 ### 2.3 第二日复盘
+
+C|图 <% tp.date.now("YYYY-MM-DD") %> 欧元15M 复盘|668
 
 ## 三、 日元
 
@@ -77,6 +81,8 @@ C|图 <% tp.date.now("YYYY-MM-DD") %> 日元1H|668
 
 ### 3.2 今日策略
 
-C|图 <% tp.date.now("YYYY-MM-DD") %> 日元1H 计划|668
+C|图 <% tp.date.now("YYYY-MM-DD") %> 日元15M 计划|668
 
 ### 3.3 第二日复盘
+
+C|图 <% tp.date.now("YYYY-MM-DD") %> 日元15M 复盘|668
